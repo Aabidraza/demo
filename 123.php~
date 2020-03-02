@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+<link rel="stylesheet" type="text/css" href="123_files/anylinkmenu.css"> 
+<script type="text/javascript" src="123_files/menucontents.js"></script>
+<script type="text/javascript" src="123_files/anylinkmenu.js"></script>
+<script type="text/javascript"> anylinkmenu.init("menuanchorclass")</script>
+
+
+
+      
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	background-image: url(ratteb/all/bg.jpg);
+	background-repeat: repeat-x;
+}
+.tabs {
+	background:none;
+}
+
+
+
+.style5 style8 a {
+}
+
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+
+p {
+	padding: 1px;
+	margin: 3px;
+}
+
+.style33 {	color: #000000;
+	font-family: tahoma;
+	font-size: 14px;
+}
+.awael {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	color: #F00;
+}
+.style43 {color: #666666; font-family: tahoma; font-size: 12px; }
+.style45 {color: #993300}
+
+-->
+
+</style>
+
+
+
+
+</head>
+
+      
+
+<body>
+
+
+
+
+<div align="center">
+<table align="center" border="0" width="956">
+  <tbody>
+  
+  <tr>
+    <td align="center">&nbsp;</td>
+    <td align="left"><img src="123_files/blank.gif" border="0" height="40" width="80"></td>
+  </tr>
+</tbody></table>
+
+<table border="0" width="949">
+  <tbody>
+  <tr>
+  </tr>
+</tbody></table>
+<table border="0" width="982">
+  <tbody><tr>
+    <td class="style33" align="center" valign="middle"><span class="style43">Education</span></td>
+    <td class="style43" align="center" valign="middle"> Cloud</td>
+    <td class="style43" align="center" valign="middle">Social</td>
+    <td class="style43" align="center" valign="middle">&nbsp;</td>   
+  </tr>
+  <tr>
+    <td align="center" width="88"><p><a href="" class="menuanchorclass someotherclass" rel="anylinkmenu11[click]" rev="lr"><img src="123_files/services.gif" border="0" height="54" width="80"></a></p></td>
+    <td align="center" width="88"><p><a href="" class="menuanchorclass someotherclass" rel="anylinkmenu6[click]" rev="lr"><img src="123_files/weather.gif" border="0" height="54" width="80"></a></p></td>
+    <td align="center" width="88"><p><a href="" class="menuanchorclass someotherclass" rel="anylinkmenu2[click]" rev="lr"><img src="123_files/11s.gif" border="0" height="54" width="80"></a></p></td>
+   
+   
+  </tr>
+</tbody></table>
+
+
+ </body></html>
